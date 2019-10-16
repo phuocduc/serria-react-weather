@@ -1,10 +1,8 @@
 import React,{useState,useEffect} from 'react';
-import logo from './logo.svg';
 import "bootstrap/dist/css/bootstrap.min.css";
 import { css } from '@emotion/core';
 // First way to import
 
-import { get } from 'https';
 import './App.css';
 import MoonLoader from 'react-spinners/MoonLoader';
 import Moment from 'react-moment';
